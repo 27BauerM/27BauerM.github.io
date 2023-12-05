@@ -15,3 +15,8 @@ table {
     text-align: left;} 
     .container {
         display: flex;}
+#mainbox{
+    margin-right:500px;
+    padding: 10px;
+    box-shadow: 0.5vw 0.5vw 0.5vw black;
+}
